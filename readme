@@ -1,0 +1,8 @@
+这个函数暴露给外部的接口，是3个参数：
+    source_dir：图片源目录
+    target_dir：压缩图片输出目录
+	threshold：阈值
+
+函数式为resize_images(source_dir, target_dir, threshold)
+
+
